@@ -11,4 +11,4 @@ O objetivo é elaborar um projeto de jogo de adivinhação numérica. O usuário
 
 #### Pedra, papel e tesoura
 
-Nesse projeto o usuário vai escolher: pedra, papel ou tesouro e a nossa máquina, cumputador vai realizar uma escolha também e teremos a contagem de quem ganhou. E no fim teremos o resultado. 
+Nesse projeto o usuário vai escolher um dos três: pedra, papel ou tesouro e a nossa máquina, cumputador vai realizar uma escolha também e teremos a contagem de quem ganhou. E no fim teremos o resultado. 

@@ -12,3 +12,8 @@ O objetivo é elaborar um projeto de jogo de adivinhação numérica. O usuário
 #### Pedra, papel e tesoura
 
 Nesse projeto o usuário vai escolher um dos três: pedra, papel ou tesouro e a nossa máquina, cumputador vai realizar uma escolha também e teremos a contagem de quem ganhou. E no fim teremos o resultado. 
+
+
+#### Temporizador
+
+Nesse projeto vamos construir uma aplicação que simula um temporizador. O usuário digita o tempo desejado em segundos, logo em seguida no terminal é exibido o temporizador reduzindo o tempo no formato "minutos:segundos" até atingir "00:00" e assim encerrar a execução da aplicação. Vamos lidar com outra forma de inserir variáveis dentro da string, além de aprofundar os conhecimentos no que tange nas funções do Python. 

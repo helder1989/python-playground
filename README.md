@@ -22,3 +22,10 @@ Nesse projeto vamos construir uma aplicação que simula um temporizador. O usu�
 ### Gerador automático de senha
 
 A ideia nesse experimento é que quando o usuário chamar o programa e o programa perguntar quantos digitos queremos nessa senha o porograma mesmo vai gerar de forma aleatória da forma que o usuário solicitou. E para cada dígito da senha o programa mesmo vai escolhendo cada um de maneira aleátoria, letras, números e caracteres especiais. 
+
+### Jogo de advinhação de datas
+
+Nesse experimento construímos um jogo de adivinhação envolvendo datas históricas, inspirado no termoo, em Python. Neste projeto lidamos com estrutura de dicionário, arquivos JSON, algumas funções envolvendo estrutura de listas e manipulando variáveis boleanas. 
+
+
+

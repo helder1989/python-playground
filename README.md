@@ -25,7 +25,7 @@ A ideia nesse experimento é que quando o usuário chamar o programa e o program
 
 ### Jogo de advinhação de datas
 
-Nesse experimento construímos um jogo de adivinhação envolvendo datas históricas, inspirado no termoo, em Python. Neste projeto lidamos com estrutura de dicionário, arquivos JSON, algumas funções envolvendo estrutura de listas e manipulando variáveis boleanas. A inpiração para o nosso projeto será o jogo TERMO https://term.ooo/ o game nada mais é que um tipo de joguinho da forca no qual não há dicas, além das cores dos quadrados
+Nesse experimento construímos um jogo de adivinhação envolvendo datas históricas, inspirado no termoo, em Python. Neste projeto lidamos com estrutura de dicionário, arquivos JSON, algumas funções envolvendo estrutura de listas e manipulando variáveis boleanas. A inpiração para o nosso projeto será o jogo TERMO https://term.ooo/ o game nada mais é que um tipo de joguinho da forca no qual não há dicas, além das cores dos quadrados. Em nosso caso o usuário terá que advinhar a data (DD/MM/AAAA) e quando o jogo for iniciado o usuário receberá um dica sobre um acontecimento na data, sendo assim através da dica ele seguirá escolhendo a data. O nosso programa vai escolher uma data de forma aleatória e o usuário será informado sobre qual digíto ele acertou, qual errou. 
 
 
 

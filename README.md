@@ -29,7 +29,7 @@ Nesse experimento construímos um jogo de adivinhação envolvendo datas histór
 
 ### Datas e Funções
 
-Nesse projeto a ideia é verificar se um determinado produto venceu, aplicando funções no geral.
+Nesse projeto a ideia é verificar se um determinado produto venceu, aplicando funções no geral. O nosso programa vai perguntar para o usuário qual é a data de vencimento e vamos comparar as datas, a data informada com a data atual.
 
 
 

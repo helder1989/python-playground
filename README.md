@@ -31,5 +31,13 @@ Nesse experimento construímos um jogo de adivinhação envolvendo datas histór
 
 Nesse projeto a ideia é verificar se um determinado produto venceu, aplicando funções no geral. O nosso programa vai perguntar para o usuário qual é a data de vencimento e vamos comparar as datas, a data informada com a data atual.
 
+### Detectando palindromos com recursividade
+
+#### O que é palíndromo?
+
+O termo palíndromo vem do grego palin, “de novo”, e dromo, “percurso”, “circuito”, ou seja, um caminho percorrido novamente. Assim como outros elementos da língua portuguesa, os palíndromos podem ser utilizados por escritores e redatores talentosos para causar determinadas sensações no leitor.
+
+**Recursividade** é o mecanismo de programação no qual uma definição de função ou de outro objeto refere-se ao próprio objeto sendo definido. Assim função recursiva é uma função que é definida em termos de si mesma. Recursividade é o mecanismo básico para repetições nas linguagens funcionais. **A recursidade não é exclusivo do python, ou seja, pode-se encontrado em outras linguagens de programação.**
+
 
 

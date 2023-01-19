@@ -37,7 +37,7 @@ Nesse projeto a ideia é verificar se um determinado produto venceu, aplicando f
 
 O termo palíndromo vem do grego palin, “de novo”, e dromo, “percurso”, “circuito”, ou seja, um caminho percorrido novamente. Assim como outros elementos da língua portuguesa, os palíndromos podem ser utilizados por escritores e redatores talentosos para causar determinadas sensações no leitor.
 
-**Recursividade** é o mecanismo de programação no qual uma definição de função ou de outro objeto refere-se ao próprio objeto sendo definido. Assim função recursiva é uma função que é definida em termos de si mesma. Recursividade é o mecanismo básico para repetições nas linguagens funcionais. **A recursidade não é exclusivo do python, ou seja, pode-se encontrado em outras linguagens de programação.**
+**Recursividade** é o mecanismo de programação no qual uma definição de função ou de outro objeto refere-se ao próprio objeto sendo definido. Assim função recursiva é uma função que é definida em termos de si mesma. Recursividade é o mecanismo básico para repetições nas linguagens funcionais. **A recursidade não é exclusiva do python, ou seja, pode-se encontrada em outras linguagens de programação.**
 
 
 

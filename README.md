@@ -39,5 +39,15 @@ O termo palíndromo vem do grego palin, “de novo”, e dromo, “percurso”, 
 
 **Recursividade** é o mecanismo de programação no qual uma definição de função ou de outro objeto refere-se ao próprio objeto sendo definido. Assim função recursiva é uma função que é definida em termos de si mesma. Recursividade é o mecanismo básico para repetições nas linguagens funcionais. **A recursidade não é exclusiva do python, ou seja, pode-se encontrada em outras linguagens de programação.**
 
+### Filtrando e Mapeando Animais de um Aquário
+
+O objetivo nesse experimento é fazer um desafio em cima de um JSON de dados de animais de um aquário. Sendo assim vamos transferir os animais do tipo FISH para o tanque 43. Isso será feito utilizando as estruturas filter e map do Python, evitando o uso de estruturas de repetição como "while" e "for", pois a ideia é deixar o cógigo ainda mais limpo e compreensível. Nesse desafio também vamos fazer o uso da lambda no lugar das funções dwfinidas como conhecemos.
+
+
+
+
+
+
+
 
 

@@ -44,7 +44,18 @@ O termo palíndromo vem do grego palin, “de novo”, e dromo, “percurso”, 
 O objetivo nesse experimento é fazer um desafio em cima de um JSON de dados de animais de um aquário. Sendo assim vamos transferir os animais do tipo FISH para o tanque 43. Isso será feito utilizando as estruturas filter e map do Python, evitando o uso de estruturas de repetição como "while" e "for", pois a ideia é deixar o cógigo ainda mais limpo e compreensível. Nesse desafio também vamos fazer o uso da lambda no lugar das funções dwfinidas como conhecemos.
 
 
+### Coletando e exibindo Dados do NBA com API
 
+Nesse projeto o objetivo é realizar a coleta de dados envolvendo jogos e times do NBA, utilizando uma conceito de API. Realizando a extração dos dados, aplicando alguns tratamentos para melhorar a exibição desses dados ao usuário. 
+
+#### O que seria uma API?
+
+APIs são mecanismos que permitem que dois componentes de software se comuniquem usando um conjunto de definições e protocolos. Muitas empresas, utilizam as APIs para facilitar a obtenção ou troca de informações. Quando vamos realizar login ou nos cadastrar em algum site, a página de acesso pode utilizar-se das nossas contas já salvas no servidor para obter nossos dados e assim para concluir o login/cadastro no site, por exemplo. Quando isso acontece é uma API disponibilizando opção de logar com sua conta do Facebook ou e-mail já existentes ali. A grosso modo API é como se fosse um "garçom", pois nos clientes não temos acesso à cozinha, sendo o garçom (API) o facilitador. Esse é o link do site no qual faremos a requisição dos dados: http://data.nba.net/prod/v1/today.json que é composto por uma estrutura de dicionário que também nos concede alguns links que permite acesso à vários dados da NBA. Por exemplo, podemos acessar o link mencionado e copiar e colar o link referente ao dados que precisamos e mudar a URL > http://data.nba.net/prod/v1/today.json **para** http://data.nba.net/**prod/v1/allstar/2018/AS_roster.json** adcionando o link após a palavrar "net/". Dentro desse contexto devemos ir entendendo a estrutura do json, raramente à API vai trazer os dados prontos para serem consumidos, ou seja, vamos aplicar o processo de **ETL**, extrair os dados de através de uma API, trasformar os dados se adptando ao jeito que precisamos e por último carregamos esses dados em algum local, pode ser em um banco de dados, excel e etc. 
+# serem consumidos 
+
+#### O que NBA?
+
+NBA é uma abreviação para National Basketball Association, que traduzido para português significa: Associação Nacional de Basquetebol. Em suma, essa é a maior liga de basquete do Mundo. Sendo considerada por muitos, a maior e melhor liga do mundo. Participam deste campeonato, ao todo, 30 times de basquetebol. Sendo que 29 são dos Estados Unidos e 1 do Canadá.
 
 
 

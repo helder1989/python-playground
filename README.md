@@ -57,6 +57,28 @@ APIs são mecanismos que permitem que dois componentes de software se comuniquem
 NBA é uma abreviação para National Basketball Association, que traduzido para português significa: Associação Nacional de Basquetebol. Em suma, essa é a maior liga de basquete do Mundo. Sendo considerada por muitos, a maior e melhor liga do mundo. Participam deste campeonato, ao todo, 30 times de basquetebol. Sendo que 29 são dos Estados Unidos e 1 do Canadá.
 
 
+### Extraindo dados do Airbnb (Em andamento)
+
+A ideia nesse experimento é construir um estudo de web scraping utilizando a biblioteca BeautifulSoup, em que vamos extrair dados dos iomóveis da página de busca. 
+
+A coleta de dados web, ou raspagem web, é uma forma de mineração que permite a extração de dados de sites da web convertendo-os em informação estruturada para posterior análise. O tipo mais básico de coleta é o download manual das páginas, copiando e colando o conteúdo, e isso pode ser feito por qualquer pessoa, sendo esse o processo de web scraping.
+
+O Airbnd é uma plataforma de aluguel de hospedagens, que permite que qualquer pessoa disponibilize ou reserve acomodações ao redor do mundo. Seu grande diferencial é oferecer alternativas às hospedagens tradicionais, incluindo casas e apartamentos em bairros residenciais no Brasil e em mais 190 países.
+
+**Beautiful Soup** é uma biblioteca Python de extração de dados de arquivos HTML e XML. Ela funciona com o seu interpretador (parser) favorito a fim de prover maneiras mais intuitivas de navegar, buscar e modificar uma árvore de análise (parse tree).
+
+
+### Map e Reduce em Aquário
+
+Neste projeto vamos utilizar a função **reduce** combinada com a **map** para realizarmos a contagem de quantos animais existem no aquário para cada tipo (estamos mencionando um dos projetos realizados anteriormente: **Filtrando e Mapeando Animais de um Aquário**). Será uma ótima oportunidade de trabalhar com o conceito de Map Reduce utilizado por diversos frameworks de processamento de dados, como Hadoop MapREduce e Apache Spark. 
+
+O **MapReduce** nada mais é do que um modelo de programação, uma forma de escrever algoritmos que foi proposto pelo Google para processar grandes volumes de dados (Big Data). O MapReduce é baseado em conceitos da programação funcional. Trabalhando também com a estrutura de tupla, lendo um arquivo que estava em outro diretório. 
+
+
+
+
+
+
 
 
 

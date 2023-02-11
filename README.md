@@ -76,7 +76,7 @@ O **MapReduce** nada mais é do que um modelo de programação, uma forma de esc
 
 ### Conversor de Moedas Orientado a Objetos (Em andamento)
 
-Nesse experimento vamos construir um conversor de moedas, em que o usuário informa a quantidade em valor e a moeda inicial com qual a moeda destino desejada (se tenho cem reais quantos euros consigo compra? quantos doláres consigo comprar). O programa devolve ao usuário o resultado dessa conversão. Essa solucução será construída trabalhando com Programação orientada à objetos e utilizando uma API gratuita para coletar dados em relação à moedas em diversos lugares do mundo. Ou seja, esse projeto visa trazer uma introdução de forma prática do conceito de **Programação orientada à objetos**.
+Nesse experimento vamos construir um conversor de moedas, em que o usuário informa a quantidade em valor e a moeda inicial com qual a moeda destino desejada (se tenho cem reais quantos euros consigo compra? quantos doláres consigo comprar). O programa devolve ao usuário o resultado dessa conversão. Essa solucução será construída trabalhando com Programação orientada à objetos e utilizando uma API gratuita para coletar dados em relação à moedas em diversos lugares do mundo. Ou seja, esse projeto visa trazer uma introdução de forma prática do conceito de **Programação orientada à objetos**. Como se trata de uma API GRATUITA é para fins de teste e está sujeita a tempos de inatividade. Senso assim devemos usar com cuidado e evitar abusar para que outros também possam usá-lo corretamente. Vamos usar essa API: https://free.currencyconverterapi.com/ que é uma api simples e objetiva para conversão de moeda. 
 
 
 ### Portas Lógicas e Herança (Em andamento)
@@ -85,6 +85,12 @@ O objetivo nesse projeto é colocar em prática o conceito de herança dentro do
 
 Herança é um princípio de programação orientada a objetos, que permite que classes compartilhem atributos e métodos, através de "heranças". Ela é usada na intenção de reaproveitar código ou comportamento generalizado ou especializar operações ou atributos. Ponto importante é que a herança ocorre de cima pra baixo, ou seja, se uma classe é a primeira, a mesma não consegue herdar da última. 
 
+
+### Gerenciador de senha
+
+Nesse projeto a ideia é construir um gerador de senha.
+
+Podemos nos perguntar: É seguro usar gerenciador de senha? Dentro desse contexto o risco mais claro de usar um gerenciador de senhas é que ele mantém todas as suas informações confidenciais de login em um só lugar. Sendo assim, uma violção pode ser catastrófica. É por isso que muitos gerenciadores de senhas usam várias camadas de segurança, que reduzem bastante a chance de suas senhas serem vazadas. 
 
 
 

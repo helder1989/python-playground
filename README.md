@@ -74,7 +74,7 @@ Neste projeto vamos utilizar a função **reduce** combinada com a **map** para 
 
 O **MapReduce** nada mais é do que um modelo de programação, uma forma de escrever algoritmos que foi proposto pelo Google para processar grandes volumes de dados (Big Data). O MapReduce é baseado em conceitos da programação funcional. Trabalhando também com a estrutura de tupla, lendo um arquivo que estava em outro diretório. 
 
-### Conversor de Moedas Orientado a Objetos (Em andamento)
+### Conversor de Moedas Orientado a Objetos
 
 Nesse experimento vamos construir um conversor de moedas, em que o usuário informa a quantidade em valor e a moeda inicial com qual a moeda destino desejada (se tenho cem reais quantos euros consigo compra? quantos doláres consigo comprar). O programa devolve ao usuário o resultado dessa conversão. Essa solucução será construída trabalhando com Programação orientada à objetos e utilizando uma API gratuita para coletar dados em relação à moedas em diversos lugares do mundo. Ou seja, esse projeto visa trazer uma introdução de forma prática do conceito de **Programação orientada à objetos**. Como se trata de uma API GRATUITA é para fins de teste e está sujeita a tempos de inatividade. Senso assim devemos usar com cuidado e evitar abusar para que outros também possam usá-lo corretamente. Vamos usar essa API: https://free.currencyconverterapi.com/ que é uma api simples e objetiva para conversão de moeda. 
 

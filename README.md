@@ -93,7 +93,9 @@ Nesse projeto a ideia é construir um gerador de senha.
 Podemos nos perguntar: É seguro usar gerenciador de senha? Dentro desse contexto o risco mais claro de usar um gerenciador de senhas é que ele mantém todas as suas informações confidenciais de login em um só lugar. Sendo assim, uma violção pode ser catastrófica. É por isso que muitos gerenciadores de senhas usam várias camadas de segurança, que reduzem bastante a chance de suas senhas serem vazadas. 
 
 
+### Respondendo Usuário
 
+Nesse projeto a ideia é criar um programa que leia o nome de uma pessoa, usuário e mostrar uma mensagem de boas-vindas.
 
 
 

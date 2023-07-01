@@ -97,6 +97,10 @@ Podemos nos perguntar: É seguro usar gerenciador de senha? Dentro desse context
 
 Nesse projeto a ideia é criar um programa que leia o nome de uma pessoa, usuário e mostrar uma mensagem de boas-vindas.
 
+### Somando dois números
+
+Será criado um programa que leia dois números e mostre a soma entre eles. 
+
 
 
 

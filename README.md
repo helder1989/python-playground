@@ -101,7 +101,9 @@ Nesse projeto a ideia é criar um programa que leia o nome de uma pessoa, usuár
 
 Será criado um programa que leia dois números e mostre a soma entre eles. 
 
+### Dissecando uma Variável
 
+Neste, será desenvolvido um programa que recebe uma entrada do usuário através do teclado e exibe na tela seu tipo primitivo e todas as informações disponíveis sobre ele.
 
 
 

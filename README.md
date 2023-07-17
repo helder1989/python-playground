@@ -106,5 +106,10 @@ Será criado um programa que leia dois números e mostre a soma entre eles.
 Neste, será desenvolvido um programa que recebe uma entrada do usuário através do teclado e exibe na tela seu tipo primitivo e todas as informações disponíveis sobre ele.
 
 
+### Antecessor e Sucessor
+
+Será criado nesse projeto, um programa que leia um número inteiro e mostre na tela o seu antecessor e sucessor. Aqui é possível observar também á aplicação de algumas funções: **Print** e **Input**.
+
+
 
 

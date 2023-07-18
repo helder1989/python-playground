@@ -111,5 +111,9 @@ Neste, será desenvolvido um programa que recebe uma entrada do usuário atravé
 Será criado nesse projeto, um programa que leia um número inteiro e mostre na tela o seu antecessor e sucessor. Aqui é possível observar também á aplicação de algumas funções: **Print** e **Input**.
 
 
+## Dobro, Triplo e Raiz Quadrada
+
+Nesse caso, será criado um algoritmo, programa que leia um número e mostre o seu dobro, triplo e raiz quadrada. Aplicando inclusive a função **sqrt()** do módulo mat, que é útil para calcular raiz quadrada de um número, retornando a raiz quadrada comom um valor de ponto flutuante. 
+
 
 
